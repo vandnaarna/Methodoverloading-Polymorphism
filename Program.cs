@@ -22,6 +22,7 @@ namespace Methodoverloading
             {
                 Console.WriteLine("multiplication of x ,y and z is:");
                 Console.WriteLine(x * y *z);
+                Console.WriteLine("Happpy Coding");
 
             }
         }
