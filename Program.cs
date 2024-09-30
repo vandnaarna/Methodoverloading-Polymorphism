@@ -15,12 +15,6 @@ namespace Methodoverloading
         {
             public void multiply(int a, int b)
             {
-
-
-                Console.WriteLine("Multiplication of a and b is:");
-                Console.WriteLine("Multiplication of a and b is:");
-                Console.WriteLine("Multiplication of a and b is:");
-                Console.WriteLine("Multiplication of a and b is:");
                 Console.WriteLine("Multiplication of a and b is:");
                 Console.WriteLine(a * b);
             }
