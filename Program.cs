@@ -21,6 +21,7 @@ namespace Methodoverloading
             }
             public void multiply(int x, int y ,int z)
             {
+                Console.WriteLine("multiplication of x ,y and z is:");
                 Console.WriteLine(x * y *z);
 
             }
